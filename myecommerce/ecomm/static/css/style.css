@@ -59,23 +59,23 @@ a:hover {
 }
 
 .section-products #product-1 .part-1::before {
-    background: url("https://i.ibb.co/L8Nrb7p/1.jpg") no-repeat center;
+    background: url("https://s.alicdn.com/@sc04/kf/He5ddd2128f52485bae28c1676118745eL.jpg_300x300.jpg") no-repeat center;
     background-size: cover;
 		transition: all 0.3s;
 }
 
 .section-products #product-2 .part-1::before {
-    background: url("https://i.ibb.co/cLnZjnS/2.jpg") no-repeat center;
+    background: url("https://s.alicdn.com/@sc04/kf/H5ae8a5c7f55a40f88c9f947d27609ddd9.jpg_300x300.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-3 .part-1::before {
-    background: url("https://i.ibb.co/L8Nrb7p/1.jpg") no-repeat center;
+    background: url("https://s.alicdn.com/@sc04/kf/Hca6cb9aa9df24d5089675a61eeced972t.jpg_300x300.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-4 .part-1::before {
-    background: url("https://i.ibb.co/cLnZjnS/2.jpg") no-repeat center;
+    background: url("https://s.alicdn.com/@sc04/kf/H28a19ab337594442a72cc7713a4123e32.jpg_300x300.jpg") no-repeat center;
     background-size: cover;
 }
 
